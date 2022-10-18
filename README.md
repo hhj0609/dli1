@@ -1,2 +1,2 @@
 "# dli1" 
-# jetson nano AI baisc 
+This is an Jetson nano AI baisc
