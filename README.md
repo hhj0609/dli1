@@ -1,4 +1,4 @@
-This is an JetsonNano AI basic
+JetsonNano AI basic
 =============
 clasficaition
 -------------
