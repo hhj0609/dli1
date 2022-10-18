@@ -1,12 +1,5 @@
 JetsonNano AI basic
 =============
-
-clasficaition
--------------
-![스크린샷(289)](https://user-images.githubusercontent.com/108248472/196335548-221745be-0cb5-47fb-8964-fbb866dc4369.png)
-# Adataset / tumbs_up : 100, tumbs_down : 100
-Getting Started with AI on Jetson Nano
--
 <b> 1. Jetson Nano  세팅 준비물</b>
 <br>
 <br>
@@ -25,3 +18,8 @@ Getting Started with AI on Jetson Nano
 <TT> 무선 마우스<span>&#183;</span>키패드</TT>
     
 <b> ubuntu <span>&#183;</span> 쿨링팬 설치 </b>
+
+clasficaition
+-------------
+![스크린샷(289)](https://user-images.githubusercontent.com/108248472/196335548-221745be-0cb5-47fb-8964-fbb866dc4369.png)
+# Adataset / tumbs_up : 100, tumbs_down : 100
